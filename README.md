@@ -10,10 +10,15 @@ Problem Statement: Build a regression model to accurately estimate YouTube ad re
 Technologies Used:
 
 Python 3.x
+
 Machine Learning: Scikit-learn
+
 Data Analysis: Pandas, NumPy
+
 Visualization: Matplotlib, Seaborn
+
 Web App: Streamlit
+
 Model Persistence: Joblib, Pickle
 
 Key Insights:
